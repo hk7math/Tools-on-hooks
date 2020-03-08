@@ -1,0 +1,13 @@
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Verdana;
+  background: #1c4e9a;
+  background: linear-gradient(237deg, #1c4e9a 48%, #2c6ece 85%, #2d7bee 100%);
+}
+}
